@@ -1,5 +1,5 @@
 import pandas as pd
-papas = pd.Series([4,9,2,6,10,200])
-print(papas)
+cebolla = pd.Series([4,9,2,6,10,200])
+print(cebolla)
 limones = pd.Series([60,22,1,79,2,8])
 print(limones)
